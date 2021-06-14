@@ -3,3 +3,5 @@ Diabetes is a chronic disease and one of the deadliest diseases and a major publ
 
 
 ![alt text](https://github.com/mustafa-hiri/App-GUI-prediction-of-diabetes-with-ANN-and-RF/blob/main/results_02.JPG)
+
+![alt text](https://github.com/mustafa-hiri/App-GUI-prediction-of-diabetes-with-ANN-and-RF/blob/main/results_03.JPG)
